@@ -31,3 +31,7 @@
 .winter {
   background-color: aliceblue;
 }
+
+.border.red {
+  border: solid 10px red;
+}
